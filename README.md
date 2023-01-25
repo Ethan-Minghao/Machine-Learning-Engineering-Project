@@ -1,4 +1,4 @@
-# MiniTorch Module 4
+# MiniTorch Final Version
 
 <img src="https://minitorch.github.io/minitorch.svg" width="50%">
 
